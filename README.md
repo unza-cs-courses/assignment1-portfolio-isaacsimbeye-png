@@ -127,19 +127,19 @@ Before submitting, verify:
 
 ## Your Information
 
-**Name:** [Your Name]
-**Student ID:** [Your Student ID]
-**Design Theme:** [Describe your portfolio theme/style]
+**Name:** ISAAC SIMBEYE
+**Student ID:** 2021381668
+**Design Theme:** Clean, modern, and responsive portfolio with a focus on simplicity and readability. Uses light backgrounds, bold headings, and accent colors for interactivity.
 
 ### CSS Techniques Used
-- [ ] CSS Custom Properties
-- [ ] Flexbox
-- [ ] CSS Grid
-- [ ] Media Queries
-- [ ] Other: _______________
+- [X] CSS Custom Properties
+- [X] Flexbox
+- [X] CSS Grid
+- [X] Media Queries
+- [X] Other: Transitions and hover effects
 
 ### Challenges & Solutions
-[Describe any challenges you faced and how you solved them]
+At first i was having challenges on uploading the images and i just found out that different images have different types like png,jpeg etc.
 
 ### Credits
 [List any images, fonts, or resources used with attribution]
